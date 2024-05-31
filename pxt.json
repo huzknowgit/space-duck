@@ -1,0 +1,49 @@
+{
+    "name": "SPACE DUCK",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.51",
+        "tag": "v1.12.51",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/eb9fd884260f64c934fb51355e36f8c76272b6b4",
+        "target": "1.12.51",
+        "pxt": "8.5.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#975926",
+        "#D16623",
+        "#FFF609",
+        "#249CA3",
+        "#64B842",
+        "#003FAD",
+        "#A25915",
+        "#8E2EC4",
+        "#8B7488",
+        "#5C406c",
+        "#E5CDC4",
+        "#BE732D",
+        "#000000"
+    ]
+}
